@@ -41,10 +41,10 @@ Utilização de funções financeiras avançadas (`NPER`) para inverter o cálcu
 *(Aqui você vai colocar os prints da sua planilha. Veja o tutorial abaixo de como fazer isso)*
 
 ### Visão Geral do Dashboard
-![Visão Geral do Dashboard](caminho/para/sua/imagem_geral.png)
+![Visão Geral do Dashboard](visao_geral.png)
 
 ### Detalhe: Bola de Neve e Calculadora de Tempo
-![Detalhe das Calculadoras](caminho/para/sua/imagem_calculadoras.png)
+![Detalhe das Calculadoras](boladeneve_mensal.png)
 
 ---
 
