@@ -43,8 +43,6 @@ Utilização de funções financeiras avançadas (`NPER`) para inverter o cálcu
 ### Visão Geral do Dashboard
 ![Visão Geral do Dashboard](visao_geral.png)
 
-### Detalhe: Bola de Neve e Calculadora de Tempo
-![Detalhe das Calculadoras](detalhe.png)
 
 ---
 
