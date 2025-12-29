@@ -3,6 +3,9 @@
 
 > Este repositório contém um **Dashboard de Planejamento Financeiro** desenvolvido no Microsoft Excel. O projeto foi construído com foco na matemática financeira precisa, indo além de simulações básicas para incorporar o impacto da inflação, projeções de renda passiva e metas claras de acumulação.
 
+### 📥 Baixe e Use
+**O arquivo editável da planilha (`.xlsx`) está disponível para download neste repositório.** Sinta-se à vontade para baixar, visualizar os gráficos interativos e inserir seus próprios dados para simular sua liberdade financeira.
+
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Logo">
   <img src="https://img.shields.io/badge/Financial%20Modeling-Advanced-blue?style=for-the-badge" alt="Finance Badge">
